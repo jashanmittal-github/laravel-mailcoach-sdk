@@ -20,8 +20,14 @@
         "guzzlehttp/guzzle": "^6.0|^7.5",
         "illuminate/contracts": "^9.0|^10.0",
         "spatie/laravel-package-tools": "^1.13.0",
-        "spatie/mailcoach-sdk-php": "^1.0"
+        "spatie/mailcoach-sdk-php": "dev-fixes"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:spatie/mailcoach-sdk-php.git"
+        }
+    ],
     "require-dev": {
         "laravel/pint": "^1.0",
         "nunomaduro/collision": "^6.0",
