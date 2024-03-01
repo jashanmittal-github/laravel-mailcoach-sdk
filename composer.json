@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": "^6.0|^7.5",
         "illuminate/contracts": "^9.0|^10.0",
         "spatie/laravel-package-tools": "^1.13.0",
-        "spatie/mailcoach-sdk-php": "dev-fixes"
+        "spatie/mailcoach-sdk-php": "dev-fixes as 1.4.0"
     },
     "repositories": [
         {
